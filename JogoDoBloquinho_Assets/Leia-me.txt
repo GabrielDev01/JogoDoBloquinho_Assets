@@ -1,0 +1,3 @@
+Esse arquivo contém todos os 'assets' utilizados no 'Jogo do Bloquinho'!
+
+Tutorial do canal 'Desenvolvendo Jogos'! | (https://www.youtube.com/channel/UCritF2GpRC5Q8FQKqGUtrcQ)
